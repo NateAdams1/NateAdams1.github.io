@@ -1,0 +1,44 @@
+/* Style File */
+
+header {
+	background-color: grey;
+	color: white;
+	text-align: center;
+	padding: 40px 0;
+	border-bottom 4px solid #0056b3;
+}
+
+header h1 {
+	margin-bottom: 10px;
+}
+
+.image img {
+	max-width: 500px;
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+	display: block;
+	margin: 0 auto;
+}
+
+main {
+	margin-left: 25%;
+	margin-right: 25%;
+	background: #fafafa;
+	padding: 20px;
+}
+
+.project {
+	border: 2px solid #333;
+	padding: 10px;
+	border-radius: 8px;
+	margin: 20px auto;
+}
+
+footer {
+	background-color: grey;
+	color: white;
+	text-align: center;
+	padding: 40px 0;
+	border-bottom 4px solid #0056b3;
+}
